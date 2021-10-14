@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "31111"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranjaaaaaaaaa",
+      "precio": "1"
+    },
+    {
+      "nombre": "Jugo de Naranjaaaaaa",
+      "precio": "30054444",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200121313",
+      "id": 4
+    },
+    {
+      "nombre": "KELLER",
+      "precio": 100000000,
+      "id": 6
+    },
+    {
+      "nombre": "hola",
+      "precio": 23424234,
+      "id": 8
+    },
+    {
+      "nombre": "qqqqq",
+      "precio": 11111,
+      "id": 10
+    }
+  ]
+}
